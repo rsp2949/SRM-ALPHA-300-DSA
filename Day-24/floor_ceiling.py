@@ -22,5 +22,4 @@ def floor_ceiling(arr, target):
     return [floor, ceiling]
 arr = [1, 2, 4, 6, 10, 12, 14]
 target = 5
-
 print(floor_ceiling(arr, target))
